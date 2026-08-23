@@ -1,7 +1,8 @@
 name: "OE"
-displayName: Oil Extended
+displayName: Oil Extended Deluxe
 author: "Atomic"
-description: Added new blocks & units that can interact with Oil and improve player quality of life
+forkAuthor: "Kira"
+description: Fork if Oil Extended , adding more QOL and stuff
 
 version: "0.2"
 minGameVersion: "136"
