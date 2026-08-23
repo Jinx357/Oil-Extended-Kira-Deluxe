@@ -15,7 +15,7 @@
         "requirements": [
                 {"item": "copper"  , "amount": 25},
                 {"item": "lead"    , "amount": 25},
-                {"item": "steel"   , "amount": 25},
+                {"item": "metaglass"   , "amount": 25},
                 {"item": "graphite", "amount": 15}
         ],
         "size": 2,
